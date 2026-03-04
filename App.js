@@ -1,5 +1,8 @@
-const {sum, ipAddress} = require('./Sum.js')
-require('./Test.js')
+//const {sum, ipAddress} = require('./Sum.js')
+//require('./Test.js')
+import "./Test.js"
+
+import {sum, ipAddress} from "./Sum.js"
 
 let printMessage = "Let's start learning Node.js"
 
