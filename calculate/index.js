@@ -5,3 +5,6 @@ module.exports = {
     multiply,
     sum,
 }
+
+module.exports.multiply = multiply;
+module.exports.sum = sum;
